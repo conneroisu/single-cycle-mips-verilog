@@ -1,10 +1,7 @@
 # singe-cycle-mips-verilog
-A single cycle mips processor implementation in verilog.
-a single-cycle MIPS processor written
-in verilog with reflections from writing a similar single-cycle
+A single cycle mips processor implementation in verilog with reflections from writing a similar single-cycle
 processor project in vhdl that can execute a subset of the MIPS
-instruction set with additional features such as a clock divider and
-displays the current instruction on the seven segment displays present
+instruction set and displays the current instruction on the seven segment displays present
 on the FPGA board.
 The processor is implemented in Verilog and tested using a
 test-bench to verify the functionality of the processor. Additionally, the processor
@@ -112,8 +109,8 @@ following instructions: <strong>LW</strong> <strong>SW</strong>
 <strong>AND</strong> <strong>ANDI</strong> <strong>OR</strong>
 <strong>ORI</strong> <strong>SUB</strong> <strong>NOR</strong>
 <strong>BNE</strong> <strong>SLT</strong></p>
-<p>The frequency of execution for the processor will be controlled by a
-clock divider. The current instruction being executed will be displayed
+<p>
+The current instruction being executed will be displayed
 on the seven segment displays present on the FPGA board. The processor
 will be implemented in Verilog and tested using a test-bench.</p>
 <p>After the processor has been verified using the test-bench, the
