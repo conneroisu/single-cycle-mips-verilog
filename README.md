@@ -137,7 +137,7 @@ current instruction on the seven segment displays present on
 <div
 style="max-width: fit-content; margin-left: auto; margin-right: auto;">
 <figure>
-<img src="Circuit%20Diagram.png" alt="Circuit Diagram.png" />
+<img src="assets/Circuit%20Diagram.png" alt="Circuit Diagram.png" />
 <figcaption aria-hidden="true">Circuit Diagram.png</figcaption>
 </figure>
 </div>
@@ -2205,7 +2205,7 @@ Zero)</td>
 <p>The following is the wave-diagram from modelsim/questasim for my
 test-bench of my processor without the added seven segment displays.</p>
 <figure>
-<img src="WaveDiagramWithoutSevenSegment.png"
+<img src="assets/WaveDiagramWithoutSevenSegment.png"
 alt="WaveDiagramWithoutSevenSegment.png" />
 <figcaption
 aria-hidden="true">WaveDiagramWithoutSevenSegment.png</figcaption>
@@ -2213,7 +2213,7 @@ aria-hidden="true">WaveDiagramWithoutSevenSegment.png</figcaption>
 <p>Below is the captured wave-diagram from modelsim/questasim with the
 seven segment ports included:</p>
 <figure>
-<img src="SevenSegmentWaveDiagram.png"
+<img src="assets/SevenSegmentWaveDiagram.png"
 alt="SevenSegmentWaveDiagram.png" />
 <figcaption aria-hidden="true">SevenSegmentWaveDiagram.png</figcaption>
 </figure>
@@ -2332,21 +2332,21 @@ processor.</p>
 <p>The following is the schematic for the data memory of the MIPS
 processor.</p>
 <figure>
-<img src="SchematicDataMemory.png" alt="SchematicDataMemory.png" />
+<img src="assets/SchematicDataMemory.png" alt="SchematicDataMemory.png" />
 <figcaption aria-hidden="true">SchematicDataMemory.png</figcaption>
 </figure>
 <h3 id="alu-control">ALU Control</h3>
 <p>The following is the schematic for the ALU control of the MIPS
 processor.</p>
 <figure>
-<img src="SchematicALUControl.png" alt="SchematicALUControl.png" />
+<img src="assets/SchematicALUControl.png" alt="SchematicALUControl.png" />
 <figcaption aria-hidden="true">SchematicALUControl.png</figcaption>
 </figure>
 <h3 id="program-counter-control">Program Counter Control</h3>
 <p>The following is the schematic for the program counter control of the
 MIPS processor.</p>
 <figure>
-<img src="SchematicNextProgramCounter.png"
+<img src="assets/SchematicNextProgramCounter.png"
 alt="SchematicNextProgramCounter.png" />
 <figcaption
 aria-hidden="true">SchematicNextProgramCounter.png</figcaption>
@@ -2354,14 +2354,14 @@ aria-hidden="true">SchematicNextProgramCounter.png</figcaption>
 <h3 id="alu">ALU</h3>
 <p>The following is the schematic for the ALU of the MIPS processor.</p>
 <figure>
-<img src="SchematicALU.png" alt="SchematicALU.png" />
+<img src="assets/SchematicALU.png" alt="SchematicALU.png" />
 <figcaption aria-hidden="true">SchematicALU.png</figcaption>
 </figure>
 <h3 id="instruction-memory">Instruction Memory</h3>
 <p>The following is the schematic for the instruction memory of the MIPS
 processor.</p>
 <figure>
-<img src="SchematicInstructionMemory.png"
+<img src="assets/SchematicInstructionMemory.png"
 alt="SchematicInstructionMemory.png" />
 <figcaption
 aria-hidden="true">SchematicInstructionMemory.png</figcaption>
@@ -2370,7 +2370,7 @@ aria-hidden="true">SchematicInstructionMemory.png</figcaption>
 <p>The following is the schematic for the program counter of the MIPS
 processor.</p>
 <figure>
-<img src="SchematicProgramCounter.png"
+<img src="assets/SchematicProgramCounter.png"
 alt="SchematicProgramCounter.png" />
 <figcaption aria-hidden="true">SchematicProgramCounter.png</figcaption>
 </figure>
@@ -2378,7 +2378,7 @@ alt="SchematicProgramCounter.png" />
 <p>The following is the wave form of the Processor from
 modelsim/questasim:</p>
 <figure>
-<img src="TestbenchWaveform.png" alt="TestbenchWaveform.png" />
+<img src="assets/TestbenchWaveform.png" alt="TestbenchWaveform.png" />
 <figcaption aria-hidden="true">TestbenchWaveform.png</figcaption>
 </figure>
 <h1 id="tooling">Tooling</h1>
