@@ -4,8 +4,6 @@ A single cycle mips processor implementation in verilog.
 <body>
 <header id="title-block-header">
 <h1 class="title">Cpre281 Final Project</h1>
-<p class="author">Conner Ohnesorge</p>
-<p class="date">2024-04-10</p>
 <div class="abstract">
 <div class="abstract-title">Abstract</div>
 This is the final project for CPRE281 taught at Iowa State University By
@@ -114,15 +112,7 @@ Unit</a></li>
 <li><a href="#conclusion-1" id="toc-conclusion-1">Conclusion</a></li>
 </ul>
 </nav>
-<h2 id="proposal">Proposal</h2>
-<p>This section contains the proposal that was submitted for the
-project.</p>
-<p>A MIPS processor that can execute a subset of the MIPS instruction
-set with additional features such as a clock divider, displaying the
-current instruction on the seven segment displays present on the FPGA
-board, and the ability to change the frequency of execution of the
-processor.</p>
-<p>More specifically, the processor will be able to execute the
+<p>The processor is able to execute the
 following instructions: <strong>LW</strong> <strong>SW</strong>
 <strong>J</strong> <strong>ADD</strong> <strong>ADDI</strong>
 <strong>BEQ</strong> <strong>ADDU</strong> <strong>SUBU</strong>
