@@ -1,23 +1,16 @@
 # singe-cycle-mips-verilog
 A single cycle mips processor implementation in verilog.
-
-<body>
-<header id="title-block-header">
-<h1 class="title">Cpre281 Final Project</h1>
-<div class="abstract">
-<div class="abstract-title">Abstract</div>
-This is the final project for CPRE281 taught at Iowa State University By
-Conner Ohnesorge. The project is a single-cycle MIPS processor written
+a single-cycle MIPS processor written
 in verilog with reflections from writing a similar single-cycle
 processor project in vhdl that can execute a subset of the MIPS
 instruction set with additional features such as a clock divider and
 displays the current instruction on the seven segment displays present
-on the FPGA board. The processor is implemented in Verilog and tested
-using a test-bench to verify the functionality of the processor. The
-processor is tested on an FPGA board to verify the functionality of the
-processor. The processor is implemented in Verilog and tested using a
-test-bench to verify the functionality of the processor. The processor
+on the FPGA board.
+The processor is implemented in Verilog and tested using a
+test-bench to verify the functionality of the processor. Additionally, the processor
 is tested on an FPGA board to verify the functionality of the processor.
+
+<body>
 </div>
 </header>
 <nav id="TOC" role="doc-toc">
