@@ -3614,8 +3614,7 @@ developed test-benches in Verilog to verify the functionality of
 individual components as well as the overall processor. The test-benches
 allowed me to simulate the processor’s behavior and debug any issues
 that arose during the development process.</p>
-<p>In addition to the Verilog implementation, I also compared and
-contrasted my experience with writing a similar single-cycle processor
+<p>In addition to the Verilog implementation, I also compared my experience with writing a similar single-cycle processor
 in VHDL. This comparison provided insights into the
 differences and similarities between the two hardware description
 languages. While Verilog offers a more concise and flexible syntax, VHDL
@@ -3623,14 +3622,4 @@ provides stronger typing and more explicit component instantiation. Both
 languages have their strengths and weaknesses, and the choice between
 them often depends on the specific project requirements and personal
 preference.</p>
-<p>Throughout the project, I utilized various tools and technologies to
-aid in the development process. I used Quartus Prime for synthesizing
-and programming the FPGA board, ModelSim for simulation and debugging,
-and version control systems like Git for managing the project files. I
-also leveraged language servers and integrated development environments
-to enhance my coding experience and productivity.</p>
-<p>In conclusion, this final project for CPRE281 has been a valuable
-learning experience. It has deepened my understanding of processor
-design, hardware description languages, and the MIPS instruction set
-architecture.</p>
 </body>
