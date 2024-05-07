@@ -3597,15 +3597,8 @@ different test cases through loading different binary converted assembly
 files and allows one to monitor the processor’s behavior through the
 7-segment display outputs.</p>
 <h1 id="conclusion-1">Conclusion</h1>
-<p>In this final project for CPRE281, I successfully designed and
-implemented a single-cycle MIPS processor in Verilog. The processor is
-capable of executing a subset of the MIPS instruction set, including
-arithmetic, logical, memory, and control flow instructions. The
-processor features additional components such as a clock divider and
-displaying the current instruction on the seven-segment displays present
-on the FPGA board.</p>
-<p>Throughout the project, I gained valuable experience in designing and
-implementing a processor using Verilog. I learned about the different
+<p>Throughout this project, I gained valuable experience in designing and
+implementing a processor using Verilog. I further learned about the different
 stages of the processor pipeline, including instruction fetch, decode,
 execute, memory access, and write-back. I also gained a deeper
 understanding of the MIPS instruction set architecture and how
@@ -3623,7 +3616,7 @@ allowed me to simulate the processor’s behavior and debug any issues
 that arose during the development process.</p>
 <p>In addition to the Verilog implementation, I also compared and
 contrasted my experience with writing a similar single-cycle processor
-in VHDL as part of CPRE381. This comparison provided insights into the
+in VHDL. This comparison provided insights into the
 differences and similarities between the two hardware description
 languages. While Verilog offers a more concise and flexible syntax, VHDL
 provides stronger typing and more explicit component instantiation. Both
@@ -3639,11 +3632,7 @@ to enhance my coding experience and productivity.</p>
 <p>In conclusion, this final project for CPRE281 has been a valuable
 learning experience. It has deepened my understanding of processor
 design, hardware description languages, and the MIPS instruction set
-architecture. The project has also provided hands-on experience in
-implementing a functional processor using Verilog and comparing it with
-a VHDL implementation. The skills and knowledge gained from this project
-will be beneficial for future endeavors in the field of computer
-engineering and hardware design.</p>
+architecture.</p>
 </body>
 <style>
 h2#toc-title {
