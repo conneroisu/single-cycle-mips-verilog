@@ -3634,12 +3634,3 @@ learning experience. It has deepened my understanding of processor
 design, hardware description languages, and the MIPS instruction set
 architecture.</p>
 </body>
-<style>
-h2#toc-title {
-    text-align: center;
-}
-h2#toc-title {
-	align: center !important;
-	text-align: center !important;
-} 
-</style>
